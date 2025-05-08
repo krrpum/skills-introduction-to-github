@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>¿Qué se siente ser el mejor?</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    article {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      line-height: 1.6;
+    }
+    figure {
+      margin: 2rem 0;
+      text-align: center;
+    }
+    figure img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    figcaption {
+      font-size: 0.9rem;
+      color: #555;
+      margin-top: 0.5rem;
+    }
+    .autor {
+      background-color: #f0f0f0;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-top: 3rem;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .autor h2 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #888;
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>¿Qué se siente ser el mejor?</h1>
+  </header>
+  <article>
+    <p>El jaguar (<em>Panthera onca</em>) es el felino más grande de América y uno de los más impresionantes del mundo...</p>
+
+    <figure>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River.JPG" alt="Jaguar en su hábitat natural">
+      <figcaption>Jaguar en el Pantanal brasileño – Foto: Wikimedia Commons</figcaption>
+    </figure>
+
+    <p>Uno se preguntaría, ¿qué te vuelve “el mejor”? ¿La fuerza? ¿La inteligencia?...</p>
+
+    <figure>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Jaguar_mordiendo.jpg" alt="Jaguar mordiendo">
+      <figcaption>La mordida más poderosa entre los grandes felinos – Foto: Wikimedia Commons</figcaption>
+    </figure>
+
+    <p>Su territorio se extiende desde el sur de EE.UU. hasta Argentina...</p>
+
+    <figure>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Pantanal_Mato-Grosso_Brasil_16.jpg" alt="Región del Pantanal">
+      <figcaption>Región del Pantanal, uno de los últimos refugios del jaguar – Foto: Wikimedia Commons</figcaption>
+    </figure>
+
+    <p>Hoy en día está clasificado como una “especie amenazada”...</p>
+  </article>
+
+  <section class="autor">
+    <h2>Sobre el autor</h2>
+    <p>Fabricio Quiquiza es estudiante universitario con interés en la divulgación, redacción y proyectos educativos digitales.</p>
+  </section>
+
+  <footer>
+    <p>Portafolio de ejemplo · Creado por Fabri · 2025</p>
+  </footer>
+</body>
+</html>
